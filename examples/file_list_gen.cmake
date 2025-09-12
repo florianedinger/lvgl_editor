@@ -5,7 +5,6 @@ list(
   ${CMAKE_CURRENT_LIST_DIR}/components/column/column_gen.c
   ${CMAKE_CURRENT_LIST_DIR}/components/header/header_gen.c
   ${CMAKE_CURRENT_LIST_DIR}/components/icon/icon_gen.c
-  ${CMAKE_CURRENT_LIST_DIR}/components/my_h3/my_h3_gen.c
   ${CMAKE_CURRENT_LIST_DIR}/components/row/row_gen.c
   ${CMAKE_CURRENT_LIST_DIR}/components/setclock/setclock_gen.c
   ${CMAKE_CURRENT_LIST_DIR}/components/step_button/step_button_gen.c

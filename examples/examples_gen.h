@@ -102,7 +102,6 @@ void examples_init_gen(const char * asset_path);
 #include "components/column/column_gen.h"
 #include "components/header/header_gen.h"
 #include "components/icon/icon_gen.h"
-#include "components/my_h3/my_h3_gen.h"
 #include "components/row/row_gen.h"
 #include "components/setclock/setclock_gen.h"
 #include "components/step_button/step_button_gen.h"
